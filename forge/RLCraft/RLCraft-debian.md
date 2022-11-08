@@ -2,8 +2,6 @@ Debian Server 11 RLCraft install
 
 apt update
 
-apt install sudo
-
 apt install cockpit
 
 apt install ufw
